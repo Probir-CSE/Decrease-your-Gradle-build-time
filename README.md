@@ -3,9 +3,9 @@
                                                                                                | 
                                                                                                |Raw
 Copy these Codes below and then Paste to gradle.properties File.                              
------------------------------------------------------
+_______________________________________________________________________
 
-#Enable daemon 
+# Enable daemon 
 org.gradle.daemon=true
 
 # Try and findout the best heap size for your project build.
@@ -16,3 +16,6 @@ org.gradle.parallel=true
 
 # Enable configure on demand.
 org.gradle.configureondemand=true
+
+
+
