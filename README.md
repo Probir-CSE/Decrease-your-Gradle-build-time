@@ -1,7 +1,7 @@
                                                                                              ^
                                                                                               \
                                                                                                | 
-                                                                                            | Raw |
+                                                                                               |Raw
 Copy these Codes below and then Paste to gradle.properties File.                              
 -----------------------------------------------------
 
