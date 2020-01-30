@@ -5,7 +5,7 @@
 Copy these Codes below and then Paste to gradle.properties File.                              
 -----------------------------------------------------
 
-#Enable daemon
+#Enable daemon 
 org.gradle.daemon=true
 
 # Try and findout the best heap size for your project build.
