@@ -1,4 +1,8 @@
-Copy these Codes below and then Paste to gradle.properties File.
+                                                                  ^
+                                                                   \
+                                                                    |
+                                                                    |
+Copy these Codes below and then Paste to gradle.properties File.  <Raw>
 -----------------------------------------------------
 
 #Enable daemon
